@@ -12,4 +12,5 @@ This interactive Power BI dashboard presents a comprehensive analysis of mobile 
 * *Slicers:* Filters for Month, Model, Brand, and Payment Method for dynamic exploration
 *📌 Tools Used:*
 Power BI | DAX | Data Modeling | Custom Visuals | Map Integration
-> This dashboard enables data-driven decision-making for sales, marketing, and inventory teams by transforming raw sales data into strategic insights.
+
+https://github.com/MALLAYYA25/-Mobile-Sales-Insights-Dashboard/blob/main/Mobile_Sales_Dashboard1.png
